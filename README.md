@@ -1,7 +1,7 @@
 # MBEERNet
 Get the code.
 ```bash
-git clone [https://github.com/rhett-chen/graspness_implementation.git](https://github.com/bearfancy/MBEERNet.git)
+git clone https://github.com/bearfancy/MBEERNet.git
 ```
 ## Requirements
 - colorama==0.4.6
